@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🥗 Nutri-Scan Pro</h1>
+  <h1>🥗 Nutri-Scan</h1>
   <p><strong>AI-Powered Nutritional Clarity | Open Innovation Project</strong></p>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
